@@ -1,0 +1,36 @@
+- !<AnimationAsset/bce11708-ae6b-4571-bdcd-fa5ca8b2d23a>
+  PackagePath: ""
+  AnimationPropertiesLayers:
+    piece_0:
+      position:
+        - time: 0.000000
+          value: {x: 0.000012, y: 2.089051, z: -0.064286}
+        - time: 1.000000
+          value: {x: 0.000012, y: 4.089051, z: -0.064286}
+        - time: 3.000
+          value: {x: 20.00, y: 4.089051, z: -50.00}
+        - time: 6.0000
+          value: {x: 0.00, y: 4.089051, z: -100.00}
+        - time: 9.0000
+          value: {x:-20.000, y: 4.089051, z: -50.00}
+        - time: 12.000
+          value: {x: 0.000012, y: 4.089051, z: -0.064286}
+      rotation:
+        - time: 0.000
+          value: {x: 0.0, y: 0.7071, z: 0.0, w: 0.7071}    # Facing +X
+        - time: 3.000
+          value: {x: 0.0, y: 1.0, z: 0.0, w: 0.0}          # Facing -Z
+        - time: 6.000
+          value: {x: 0.0, y: -0.7071, z: 0.0, w: 0.7071}   # Facing -X
+        - time: 9.000
+          value: {x: 0.0, y: 0.0, z: 0.0, w: 1.0}          # Facing +Z
+        - time: 12.000
+          value: {x: 0.0, y: 0.7071, z: 0.0, w: 0.7071}    # Looping to Facing +X
+      scale:
+        []
+      vertexCache:
+        []
+      visibilityAnimation:
+        []
+      blendShapes:
+        []
