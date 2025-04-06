@@ -4,3 +4,8 @@
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.mesh filter=lfs diff=lfs merge=lfs -text
+*.hdr filter=lfs diff=lfs merge=lfs -text
+*.deviceCameraTexture filter=lfs diff=lfs merge=lfs -text
+*.renderTarget filter=lfs diff=lfs merge=lfs -text
+*.scene filter=lfs diff=lfs merge=lfs -text
+*.handTracking3D filter=lfs diff=lfs merge=lfs -text

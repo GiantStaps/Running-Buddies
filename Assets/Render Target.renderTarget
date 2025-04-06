@@ -1,14 +1,3 @@
-- !<RenderTarget/923415f5-4245-4675-ade1-6d69d6d23e71>
-  PackagePath: ""
-  UseScreenResolution: true
-  Resolution:
-    x: 900
-    y: 1600
-  ResolutionScale: 1.000000
-  AntialiasingMode: Disabled
-  AntialiasingQuality: Ultra
-  MSAAStrategy: OnlyWhenRequired
-  ClearColorOption: BackgroundTexture
-  ClearColor: {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}
-  InputTexture: !<reference> 996c6f4e-b2ad-4117-9e3e-3db82e6e97f5
-  DepthBuffer: Auto
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8974f289d05a0fcbbf3b6593e7722d0678dffa8a585541953a2701cfae5bdb6
+size 462
